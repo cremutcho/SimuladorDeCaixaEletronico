@@ -1,0 +1,14 @@
+C:\Users\surfc\SimuladordeCaixaEletrônico\bin\Debug\net8.0\SimuladordeCaixaEletrônico.exe
+C:\Users\surfc\SimuladordeCaixaEletrônico\bin\Debug\net8.0\SimuladordeCaixaEletrônico.deps.json
+C:\Users\surfc\SimuladordeCaixaEletrônico\bin\Debug\net8.0\SimuladordeCaixaEletrônico.runtimeconfig.json
+C:\Users\surfc\SimuladordeCaixaEletrônico\bin\Debug\net8.0\SimuladordeCaixaEletrônico.dll
+C:\Users\surfc\SimuladordeCaixaEletrônico\bin\Debug\net8.0\SimuladordeCaixaEletrônico.pdb
+C:\Users\surfc\SimuladordeCaixaEletrônico\obj\Debug\net8.0\SimuladordeCaixaEletrônico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surfc\SimuladordeCaixaEletrônico\obj\Debug\net8.0\SimuladordeCaixaEletrônico.AssemblyInfoInputs.cache
+C:\Users\surfc\SimuladordeCaixaEletrônico\obj\Debug\net8.0\SimuladordeCaixaEletrônico.AssemblyInfo.cs
+C:\Users\surfc\SimuladordeCaixaEletrônico\obj\Debug\net8.0\SimuladordeCaixaEletrônico.csproj.CoreCompileInputs.cache
+C:\Users\surfc\SimuladordeCaixaEletrônico\obj\Debug\net8.0\SimuladordeCaixaEletrônico.dll
+C:\Users\surfc\SimuladordeCaixaEletrônico\obj\Debug\net8.0\refint\SimuladordeCaixaEletrônico.dll
+C:\Users\surfc\SimuladordeCaixaEletrônico\obj\Debug\net8.0\SimuladordeCaixaEletrônico.pdb
+C:\Users\surfc\SimuladordeCaixaEletrônico\obj\Debug\net8.0\SimuladordeCaixaEletrônico.genruntimeconfig.cache
+C:\Users\surfc\SimuladordeCaixaEletrônico\obj\Debug\net8.0\ref\SimuladordeCaixaEletrônico.dll
